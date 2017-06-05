@@ -4,9 +4,10 @@ Web-Based Comprehensive Examination Systems
 - Create Comprehensive Examination
 - Import and Export Examination
   - Report File ex. 
-    - [PDF file1](https://github.com/tustiras01/MyProject_Coordinator/blob/master/PDF0.pdf)
-    - [PDF file2](https://github.com/tustiras01/MyProject_Coordinator/blob/master/PDF1.pdf)
-    - [PDF file2](https://github.com/tustiras01/MyProject_Coordinator/blob/master/PDF2.pdf)
+    - [PDF file1 Exam](https://github.com/tustiras01/MyProject_Coordinator/blob/master/Report/exam1.pdf)
+    - [PDF file1 Ans](https://github.com/tustiras01/MyProject_Coordinator/blob/master/Report/ans1.pdf)
+    - [PDF file2 Exam](https://github.com/tustiras01/MyProject_Coordinator/blob/master/Report/exam2.pdf)
+    - [PDF file2 Ans](https://github.com/tustiras01/MyProject_Coordinator/blob/master/Report/ans2.pdf)
 - **Random Examination**
 - Make Project by HTML, PHP, CSS and MySQL 
 
